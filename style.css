@@ -1,0 +1,146 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+    width: 139px;
+    height: 70px;
+    display: flex;   
+    align-items: center;       
+    justify-content: center;
+}
+.nav-right{
+    width: 1200px;
+    height: 70px;
+    margin-left: 160px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.home{
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.company{
+    width: 120px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.brands{
+    width: 120px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.buissiness{
+    width: 120px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.newsroom{
+    width: 120px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.sustainability{
+    width: 150px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.careers{
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.contactus{
+    width: 120px;
+    height: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+.page1{
+    width: 100%;
+    height: 650px;
+}
+.page2{
+    width: 100%;
+    height:800px;
+    display: flex;
+}
+.page2-image{
+    width: 50%;
+    height: 800px;
+    background-color: #333;
+    display: flex;
+
+    justify-content: center;
+    
+}
+.red-shape{
+    position: absolute;
+    height: 560px;
+    margin-top: 60px;
+}
+.page2-image h1{
+    position: relative;
+    color: #fff;
+    margin-top: 300px;
+    font-size: 80px;
+    font-weight: 800px;
+}
+.page2-text{
+    width: 50%;
+    height: 800px;
+    background-color: #fff;
+    color:#000;
+    font-size: 24px;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: #fff;
+    display: flex;
+}
+.footer-left{
+    width: 25%;
+    height:300px;
+    color: #0a0b27;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 50px;
+}
+.footer-middle{
+    width: 30%;
+    height: 300px;
+    color: #0a0b27;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 50px;
+}
+.footer-right{
+    width: 40%;
+    height: 300px;
+    color: #0a0b27;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 50px; 
+}
+.footer-icons{
+    width: 500px;
+    height: 100px;
+    display: flex;
+    gap: 20px;
+}
+
